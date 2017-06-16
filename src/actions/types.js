@@ -1,9 +1,1 @@
-export const FETCH_USER = 'FETCH_USER';
-export const FETCH_DEADLINES = 'FETCH_DEADLINES';
-export const NEW_DEADLINES = 'NEW_DEADLINES';
-export const CHANGE_APP_MODE = 'CHANGE_APP_MODE';
-export const CHANGE_CAL_TYPE = 'CHANGE_CAL_TYPE';
-export const CAL_NEXT = 'CAL_NEXT';
-export const CAL_PREV = 'CAL_PREV';
-export const UPDATE_DEADLINES = 'UPDATE_DEADLINES';
-export const LOAD_MORE_CARDS = 'LOAD_MORE_CARDS';
+// export const TYPE = 'TYPE';
